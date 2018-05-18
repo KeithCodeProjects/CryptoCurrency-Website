@@ -1,0 +1,127 @@
+	body {
+		background-color: rgb(49, 52, 53);
+		font-size: 17px;
+		color: white;
+	}
+
+	.panel {
+		background-color: rgb(50, 50, 50);
+	}
+    /*
+	.panel-body {
+		padding: 10px;
+		
+	}
+
+	.container{
+		margin: 100px ;	
+		
+	}
+    */
+
+	.price-boxes {
+		margin-top: 10%;
+	}
+	.price-boxesHidden{
+		display: none;
+		margin-top: 10%;
+	}
+	
+	a {
+		color:white;
+	}
+
+	.price {
+		font-size: 25px;
+	}
+
+	.price-display {
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.price-display2 {
+		font-weight: bold;
+		text-align: center;
+	}
+
+	span {
+		color: orange;
+	}
+
+	.up {
+		color: green;
+	}
+
+	.down {
+		color: red;
+	}
+
+	.exchange {
+		color: #42f492;
+	}
+
+	.top-logo{
+		background-image: url('img/nyc.jpg');
+		min-height: 450px;
+		position: relative;
+		opacity: 0.70;
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+
+	.bottom-logo{
+		background-image: url('img/cryptoCoins.jpg');
+		min-height: 350px;
+		position: relative;
+		opacity: 0.70;
+		background-position: center;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		margin-top: 60px;
+	}
+
+	.logoText{
+		position: absolute;
+		top: 50%;
+		width: 100%;
+		text-align: center;
+		color: #fff;
+		font-size: 27px;
+		letter-spacing: 8px;
+		text-transform: uppercase;
+		font-family: 'Lato', 'san-serif';
+	}
+
+	.border{
+		background-color: rgb(78, 79, 80);
+		color: #fff;
+		padding: 20px;
+	}
+
+	.glyphicon-search{
+		font-size: 20px;
+	}
+	.btn-default{
+		background: rgb(116, 125, 148);
+		width: 100px;
+		padding: 12.5px;
+	}
+	.form-control{
+		padding: 25px;
+		font-size: 20px;
+	}
+
+	form{
+
+		margin-top: 10%;
+	}
+	.input-group{
+		margin: 50px;
+		
+	}
+
+	
